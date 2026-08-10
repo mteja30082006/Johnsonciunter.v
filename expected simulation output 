@@ -1,0 +1,12 @@
+Johnson Counter Simulation
+
+Time = 0  | Reset = 1 | Q = 0000
+Time = 10 | Reset = 0 | Q = 1000
+Time = 20 | Reset = 0 | Q = 1100
+Time = 30 | Reset = 0 | Q = 1110
+Time = 40 | Reset = 0 | Q = 1111
+Time = 50 | Reset = 0 | Q = 0111
+Time = 60 | Reset = 0 | Q = 0011
+Time = 70 | Reset = 0 | Q = 0001
+Time = 80 | Reset = 0 | Q = 0000
+Time = 90 | Reset = 0 | Q = 1000
